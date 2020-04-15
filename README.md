@@ -6,6 +6,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
+  * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
@@ -114,6 +115,15 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
 
+## Type Checkers
+
+* [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
+* [Flow.js](https://flow.org/en/) - A static type checker for JavaScript from Facebook.
+* [Hegel](https://jsmonk.github.io/hegel/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
+* [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
+* [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
+
+
 ## Testing Frameworks
 
 ### Frameworks
@@ -206,6 +216,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [makefun](https://www.npmjs.com/package/makefun) - Use promise values as they are satisfied otherwise wait for the promise
 
 ## Node-Powered CMS Frameworks
 
@@ -220,6 +231,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 * [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
+* [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
@@ -595,6 +607,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [FormValidation](http://formvalidation.io/) - The best jQuery plugin to validate form fields. Formerly BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) - Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
+* [Funval](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 
 ## Keyboard Wrappers
@@ -783,6 +796,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
+* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
 ## Boilerplates
 
@@ -829,6 +843,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
 
 ## Typography
 
@@ -863,6 +878,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Anime.js](http://animejs.com) - A JavaScript animation engine http://animejs.com.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+* [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features
 
 ## Image Processing
 
@@ -885,7 +901,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
-
+* [Docusaurus](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
 ## SDK
 
@@ -914,6 +930,10 @@ http://www.listjs.com
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
+* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
+* [ink-components](https://github.com/ink-components/ink-components) - Web-components for interactive scientific writing, reactive documents and explorable explanations.
+* [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
+
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
